@@ -1,0 +1,38 @@
+NOT FOUND AT ALL IN FINANCE BILL 2ND READING VOTES
+
+"Kitilai, Ole Ntutu": {
+    "AFFORDABLE HOUSING": {
+        "area": "Narok South",
+        "vote": "YES"
+    }
+},
+
+"Abdi, Khamis Chome": {
+    "AFFORDABLE HOUSING": {
+        "area": "Voi",
+        "vote": "NO"
+    }
+},
+
+"Ngikolong, Nicholas Ng\u2019ikor Nixon": {
+    "AFFORDABLE HOUSING": {
+        "area": "Turkana East",
+        "vote": "YES"
+    }
+}
+
+"Pareyio, Agnes Mantaine": {
+    "AFFORDABLE HOUSING": {
+        "area": "Narok North",
+        "vote": "YES"
+    }
+},
+
+
+
+CONFIRM NAME SPELLING IN FINANCE BILL 2ND READING VOTES
+
+Biego, Paul Kibichy
+Alfah, Miruka Ondieki
+Siyoi, Lillian Chebet
+Kosgei, Hilary Kiplangat"
